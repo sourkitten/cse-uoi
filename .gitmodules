@@ -1,0 +1,6 @@
+[submodule "digital-design-1"]
+	path = digital-design-1
+	url = git@github.com:sourkitten/digital-design-1
+[submodule "digital-design-2"]
+	path = digital-design-2
+	url = git@github.com:sourkitten/digital-design-2
