@@ -4,3 +4,28 @@
 [submodule "digital-design-2"]
 	path = digital-design-2
 	url = git@github.com:sourkitten/digital-design-2
+[submodule "charts-webapp"]
+	path = charts-webapp
+	url = git@github.com:sourkitten/charts-webapp
+[submodule "ZARI"]
+	path = ZARI
+	url = git@github.com:sourkitten/ZARI
+[submodule "kiwi"]
+	path = kiwi
+	url = git@github.com:sourkitten/kiwi
+[submodule "microp-sim"]
+	path = microp-sim
+	url = git@github.com:sourkitten/microp-sim
+[submodule "pathfinding-minimax"]
+	path = pathfinding-minimax
+	url = git@github.com:sourkitten/pathfinding-minimax
+[submodule "Signals-and-Systems"]
+	path = Signals-and-Systems
+	url = git@github.com:sourkitten/Signals-and-Systems
+[submodule "lkl-source"]
+	shallow = true
+	path = lkl-source
+	url = git@github.com:sourkitten/lkl-source
+[submodule "cutepy-compiler"]
+	path = cutepy-compiler
+	url = git@github.com:sourkitten/cutepy-compiler
